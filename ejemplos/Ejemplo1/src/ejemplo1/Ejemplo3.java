@@ -14,7 +14,7 @@ import java.util.Locale;
  *
  * @author reroes
  */
-public class Ejemplo1 {
+public class Ejemplo3 {
        
     public static void main(String[] args) {
         // Condicionales simplesmain
