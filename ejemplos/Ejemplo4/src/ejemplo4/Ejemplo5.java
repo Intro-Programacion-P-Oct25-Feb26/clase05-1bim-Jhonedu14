@@ -24,6 +24,7 @@ public class Ejemplo5 {
         System.out.println("Ingrese la ciudad");
         String ciudad = entrada.nextLine(); // Quito
 
+        //quiere decir que el signo de exclamacion es diferente se continua
         if (!ciudad.equals("Loja")) {
             System.out.printf("%s\n", "acceso correcto");
         } else {
@@ -31,7 +32,7 @@ public class Ejemplo5 {
         }
 
         int numero = 10;
-
+        // si el numero es distinto o igual a 10 se pasa a la siguiente linea
         if (numero != 10) {
             System.out.println("correcto");
         }
